@@ -20,3 +20,6 @@ public class OverridingMain {
         poly.method(); //메서드 오버라이딩o
     }
 }
+
+
+
